@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ise/ao/ao.ncd
+OUTFILE=/home/ise/ao/ao.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=/home/ise/ao
+LICENSE=ISE
+USER_INFO=8416_11442_1478797146_620
